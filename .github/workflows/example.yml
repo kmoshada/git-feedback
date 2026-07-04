@@ -10,3 +10,6 @@ jobs:
     steps:
       - name: Print
         run: echo "Hello World...."
+
+      - name: Print again
+        run: echo "Hello World again...."
